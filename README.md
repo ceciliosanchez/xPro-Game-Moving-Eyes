@@ -20,7 +20,7 @@ This project demonstrates how to create animated eyes in JavaScript and CSS that
 
 1. Clone the repository.
 2. Open `eyes.html` in a web browser.
-3. Preview: <a href="https://ceciliosanchez.com/github/xpro/moving_eyes/eyes.html" target="_blank">Moving Balls![Animation Screenshot](img/screenshot.png)</a>
+3. Preview: <a href="https://ceciliosanchez.com/github/xpro/moving_eyes/eyes.html" target="_blank">Moving Eyes![Animation Screenshot](img/screenshot.png)</a>
 
 ## Support
 
