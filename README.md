@@ -1,4 +1,4 @@
-# Project for MIT xPro Full Stack Developer course
+# Full Stack Developer Exercise
 
 ## Moving Eyes
 
